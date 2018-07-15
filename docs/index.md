@@ -1,6 +1,6 @@
 # Technical Support Engineer Test for Nathanael Mamman
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Betlify Support Engineer Take-home exercise for Nathanael Mamman
 
 ## Technical Support Activities
 
@@ -45,7 +45,7 @@ SSL/HTTPS provides a secure connection between the web host and the client. This
 
 Major challenges around DNS configuration are for less technical internet end-users include:
   1. Some elements seem to do the same thing. For instance A records and CNAMEs both seem to name servers.
-  2. 
+  2. The fact that lower TTLs doesn't necessarily make for  faster propagation seems confusing.
 
 ## Customer problem
 
