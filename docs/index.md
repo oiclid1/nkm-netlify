@@ -40,3 +40,14 @@ SSL/HTTPS provides a secure connection between the web host and the client. This
     1. Encrypts all information being transferred across the connection. This makes it hard for anybody to easily eavesdrop on the connection. The user is assured that his/her sensitive information such as passwords, card numbers, etc, are secure and not easily stolen.
     2. It provides authentication, assuring the user that information is being sent to (and received from) the right servers, and not to imposters.
     3. It enable users to have greater trust that the websites they are transacting with is not an imposter, and that they are secure.
+
+## DNS Challenges
+
+## Customer problem
+
+First of all make sure that you did not run "build" before pushing your code to the git repo. Make sure your GitHub account is connected to your SiteGen account. Once that is done, push add and commit any changes you have made to your code, and then push the code to GitHub. Once that is done, simply run "netlify deploy". This would deploy your code to StaticGen. Repeat the process anytime you change your code to keep your website up-to-date.
+
+To view your app's admin dashboard, log into your Netlify account and select the app you want to view. The view you would be presented with would give you various options, giving you full control of your app.
+
+## Job Posting
+ I loved the Netlify job posting, as it took time out to talk a little about the company, its history, business, and culture before talking to me about the position. A lot of job openings I see only seem to be interested in telling me who they are
