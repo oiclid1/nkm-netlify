@@ -1,6 +1,6 @@
 # Technical Support Engineer Test for Nathanael Mamman
 
-Betlify Support Engineer Take-home exercise for Nathanael Mamman
+Netlify Support Engineer Take-home exercise for Nathanael Mamman
 
 ## Technical Support Activities
 
