@@ -54,4 +54,4 @@ First of all make sure that you did not run "build" before pushing your code to 
 To view your app's admin dashboard, log into your Netlify account and select the app you want to view. The view you would be presented with would give you various options, giving you full control of your app.
 
 ## Job Posting
- I loved the Netlify job posting, as it took time out to talk a little about the company, its history, business, and culture before talking to me about the position. A lot of job openings I see only seem to be interested in telling me who they are
+ I loved the Netlify job posting, as it took time out to talk a little about the company, its history, business, and culture before talking to me about the position. Most job posts I've seen only talk about the company before going on to the job description and requirements. Nothing about their histories and culture.
