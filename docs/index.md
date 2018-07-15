@@ -43,6 +43,10 @@ SSL/HTTPS provides a secure connection between the web host and the client. This
 
 ## DNS Challenges
 
+Major challenges around DNS configuration are for less technical internet end-users include:
+  1. Some elements seem to do the same thing. For instance A records and CNAMEs both seem to name servers.
+  2. 
+
 ## Customer problem
 
 First of all make sure that you did not run "build" before pushing your code to the git repo. Make sure your GitHub account is connected to your SiteGen account. Once that is done, push add and commit any changes you have made to your code, and then push the code to GitHub. Once that is done, simply run "netlify deploy". This would deploy your code to StaticGen. Repeat the process anytime you change your code to keep your website up-to-date.
