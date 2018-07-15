@@ -25,15 +25,18 @@ The greatest thing about technical support is that one gets the opportunity to m
 
 ## Netlify/StaticGen
 
-  This wasn't my first time using Netlify/StaticGen. As usual, the only problem was from determining what StaticGen template I would use.
-  I am beginning to suspect that the ease of use of a template is related to the amount "circle" of dependency hell your chosen language takes you to
-  in the OS you are using. This is because after struggling with dependency errors when I tried to use JavaScript templates (I use a Windows computer), I had the most straight-forward
-  process when I decided to use a Python template.
+This wasn't my first time using Netlify/StaticGen. Once again, I was impressed with how easy it is to deploy to Netlify. As  I did not want to deal with JavaScript dependency hell, I decided to use a Python Site Generator. After playing around with a couple of SiteGens, I decided on MkDocs, for its simplicity and ease of use, as well as for the fact that it had a StaticGen "deploy" button.
 
-  Installing and using MkDocs could only have been easier if it was a drag-and-drop editor (and maybe not even then).
-
-
+ I have used a lot of hosting services before, but the only one that compare in terms of how easy it is to deploy a site would be GitHub Pages. But I love the fact that Netlify gives user a lot more control over what frameworks to use than GitHub Pages does.
 
 ## Documentation
 
 My favorite technical product documentation is the Amazon Web Services ([AWS](https://aws.amazon.com/documentation/)) documentation. I love it because, unlike a lot of other product documentations, following the instructions ALWAYS work. At least I cannot remember an instance in which they did not A lot of the time, documentation seems to be written for an OS, product version, or even year other than the one you are using. Or live in. It can be frustrating that one had to spend a lot of time in forums looking for solutions after spending a lot of time going through the documentation. I know there are a lot of products I have not used in AWS, but for all of those I have, AWS’ docs has always had my back in ways that Google Cloud, Heroku, GitHub Pages, GoDaddy, MongoDB, Node, Django, MySQL, etc never have. I think it is the one and only software/SaaS that I have learned how to use solely by reading the documentation.
+
+## SSL/HTTPS
+
+SSL/HTTPS provides a secure connection between the web host and the client. This is important because it:
+
+    1. Encrypts all information being transferred across the connection. This makes it hard for anybody to easily eavesdrop on the connection. The user is assured that his/her sensitive information such as passwords, card numbers, etc, are secure and not easily stolen.
+    2. It provides authentication, assuring the user that information is being sent to (and received from) the right servers, and not to imposters.
+    3. It enable users to have greater trust that the websites they are transacting with is not an imposter, and that they are secure.
