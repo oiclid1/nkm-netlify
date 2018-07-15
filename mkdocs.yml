@@ -1,4 +1,4 @@
-site_name: My Netlfiy Technical Support Engineer Test
+site_name: My Netlify Technical Support Engineer Test
 theme: cinder
 pages:
 - Home: index.md
